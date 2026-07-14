@@ -21,6 +21,7 @@
   margin-bottom: 8px;
   border-radius: 4px;
   background-color: var(--cloud);
+  border: 1px solid var(--light-slate);
 }
 
 .feature-icon {

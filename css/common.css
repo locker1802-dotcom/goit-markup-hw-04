@@ -115,7 +115,7 @@ address {
 .social-list {
   display: flex;
   justify-content: center;
-  gap: 12px;
+  gap: 24px;
   margin-top: 8px;
 }
 
@@ -132,6 +132,7 @@ address {
 }
 
 .social-link:hover,
+.social-link:focus,
 .social-link:focus-visible {
   background-color: var(--ocean);
 }

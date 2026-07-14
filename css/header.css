@@ -81,8 +81,10 @@
 }
 
 .nav-link:hover,
+.nav-link:focus,
 .nav-link:focus-visible,
 .contact-link:hover,
+.contact-link:focus,
 .contact-link:focus-visible {
   color: #404bbf;
 }

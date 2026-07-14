@@ -115,8 +115,7 @@ address {
 .social-list {
   display: flex;
   justify-content: center;
-  gap: 24px;
-  margin-top: 8px;
+  gap: 16px;
 }
 
 .social-link {

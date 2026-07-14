@@ -41,21 +41,18 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-
-.footer-social-list
-.footer-social-list .social-link:focus,
-.footer-social-list .social-link:focus-visible {
-  background-color: var(--green);
+.footer-social-list {
+  display: flex;
   justify-content: flex-start;
-  margin-top: 0;
   gap: 16px;
 }
 
 .footer-social-list .social-link {
-  background-color:#4d5ae5;
+  background-color: #4d5ae5;
 }
 
 .footer-social-list .social-link:hover,
+.footer-social-list .social-link:focus,
 .footer-social-list .social-link:focus-visible {
   background-color: var(--green);
 }
